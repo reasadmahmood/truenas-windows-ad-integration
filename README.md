@@ -4,7 +4,7 @@ This repository contains a complete step-by-step deployment guide for integratin
 TrueNAS with Windows Server 2025 Active Directory.
 
 📄 **Download the Complete PDF Guide**  
-[Click here to view the PDF](./TrueNAS_AD_Guide.pdf)
+[Click here to view the PDF](./Complete Guide_ TrueNAS Active Directory Integration.pdf)
 
 ---
 
