@@ -16,3 +16,8 @@ TrueNAS with Windows Server 2025 Active Directory.
 
 ## ⭐ Purpose
 This repo showcases the deployment documentation for learning and portfolio purposes.
+
+![Status](https://img.shields.io/badge/Deployment-Tested-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-HyperV-blue)
+![Tech](https://img.shields.io/badge/Tech-ActiveDirectory%20%7C%20DNS%20%7C%20TrueNAS-orange)
+
