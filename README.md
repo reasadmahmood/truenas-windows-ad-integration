@@ -1,13 +1,23 @@
-# TrueNAS Active Directory Deployment
+# TrueNAS + Windows Server 2025 Active Directory Integration Guide
 
-This repository contains my full deployment guide for integrating TrueNAS SCALE with Active Directory, including DNS configuration, troubleshooting, and reverse lookup setup.
+This repository contains a complete step-by-step deployment guide for integrating
+TrueNAS with Windows Server 2025 Active Directory.
 
-## Contents
-- Deployment Documentation (PDF/MD)
-- Screenshots
-- Network Diagram
+📄 **Download the Complete PDF Guide**  
+[Click here to view the PDF](./TrueNAS_AD_Guide.pdf)
 
-## Highlights
-- AD DNS Forward/Reverse Zone Setup
-- TrueNAS Directory Services Integration
-- Troubleshooting Common Issues
+---
+
+## 📘 Contents of the Guide
+- Windows Server 2025 setup  
+- DNS configuration (forward + reverse zone)  
+- TrueNAS domain integration  
+- Kerberos setup  
+- Dataset permissions  
+- SMB share configuration  
+- Troubleshooting & diagnostics  
+
+---
+
+## ⭐ Purpose
+This repo showcases the deployment documentation for learning and portfolio purposes.
