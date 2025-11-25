@@ -21,3 +21,7 @@ This repo showcases the deployment documentation for learning and portfolio purp
 ![Platform](https://img.shields.io/badge/Platform-HyperV-blue)
 ![Tech](https://img.shields.io/badge/Tech-ActiveDirectory%20%7C%20DNS%20%7C%20TrueNAS-orange)
 
+
+
+![Alt text](images/Network Diagram.png)
+
