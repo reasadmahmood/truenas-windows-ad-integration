@@ -18,7 +18,7 @@ TrueNAS with Windows Server 2025 Active Directory.
 ---
 
 ## ⭐ Purpose
-This repo showcases the deployment documentation for learning and portfolio purposes.
+This repo showcase can be deployed in the production environment. You can find full guide on Complete Guide_ TrueNAS Active Directory Integration.
 
 ![Status](https://img.shields.io/badge/Deployment-Tested-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-HyperV-blue)
@@ -33,24 +33,6 @@ This repo showcases the deployment documentation for learning and portfolio purp
 
 ## 📘 Full Guide
 ![Alt text](https://github.com/reasadmahmood/truenas-windows-ad-integration/blob/main/images/Full_Guide.png)
-
-## 📘 Steps by steps
-
-![Alt text](https://github.com/reasadmahmood/truenas-windows-ad-integration/blob/main/images/Overview.png)
-
-![Alt text](https://github.com/reasadmahmood/truenas-windows-ad-integration/blob/main/images/part1.png)
-
-![Alt text](https://github.com/reasadmahmood/truenas-windows-ad-integration/blob/main/images/part2.png)
-
-![Alt text](https://github.com/reasadmahmood/truenas-windows-ad-integration/blob/main/images/part3.png)
-
-![Alt text](https://github.com/reasadmahmood/truenas-windows-ad-integration/blob/main/images/part4.png)
-
-![Alt text](https://github.com/reasadmahmood/truenas-windows-ad-integration/blob/main/images/part5.png)
-
-![Alt text](https://github.com/reasadmahmood/truenas-windows-ad-integration/blob/main/images/part6%267.png)
-
-![Alt text](https://github.com/reasadmahmood/truenas-windows-ad-integration/blob/main/images/Test%26Practice.png)
 
 
 
