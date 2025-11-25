@@ -22,7 +22,7 @@ This repo showcases the deployment documentation for learning and portfolio purp
 ![Tech](https://img.shields.io/badge/Tech-ActiveDirectory%20%7C%20DNS%20%7C%20TrueNAS-orange)
 
 
-
+## 📘 Data Flow Diagram
 ![Alt text](https://github.com/reasadmahmood/truenas-windows-ad-integration/blob/main/images/Network%20Diagram.png)
 
 
