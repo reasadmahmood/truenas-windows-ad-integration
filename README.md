@@ -25,7 +25,7 @@ This repo showcase can be deployed in the production environment. You can find f
 ![Tech](https://img.shields.io/badge/Tech-ActiveDirectory%20%7C%20DNS%20%7C%20TrueNAS-orange)
 
 
-## 📘 Network Diagram
+## 📘 Network Architecture
 ![Alt text](https://github.com/reasadmahmood/truenas-windows-ad-integration/blob/main/images/Network%20Diagram.png)
 
 ## 📘 Work Flow Diagram
