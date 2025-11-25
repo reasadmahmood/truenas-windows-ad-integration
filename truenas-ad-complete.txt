@@ -1,0 +1,49 @@
+## Part 3: Active Directory Organizational Structure
+
+### 3.1 Understanding Active Directory Delegation
+
+**What is Delegation?**
+
+Active Directory delegation is the process of assigning specific administrative permissions to users or groups without giving them full Domain Admin rights. This follows the **Principle of Least Privilege** - giving users only the permissions they need to do their job.
+
+**Why Use Delegation?**
+
+1. **Security**: Reduces risk by limiting who has full administrative access
+2. **Compliance**: Meets regulatory requirements for separation of duties
+3. **Efficiency**: Allows departmental admins to manage their own resources
+4. **Accountability**: Creates clear audit trails of who can do what
+
+**Common Delegation Scenarios:**
+
+| Scenario | Permission Needed | Why |
+|----------|-------------------|-----|
+| Help desk reset passwords | Reset Password | Without giving ability to modify admin accounts |
+| Server team join computers | Create/Delete Computer Objects | Without full domain control |
+| Department manager | Manage specific OU | Without access to other departments |
+| Application service account | Specific read/write | Without interactive login rights |
+
+**In Our TrueNAS Setup:**
+
+We create a service account (`truenas_join`) and delegate it the **specific permission to join computers to the domain**. This means:
+- ✅ TrueNAS can join the domain automatically
+- ✅ The account cannot change user passwords
+- ✅ The account cannot modify group memberships
+- ✅ The account cannot access email or files
+- ❌ If compromised, damage is limited to computer object creation
+
+This is **much more secure** than using the Administrator account for TrueNAS integration.
+
+---
+
+### 3.2 Create Organizational Units (OUs)
+
+Organizational Units help organize and manage objects in Active Directory.
+
+1. Open **Active Directory Users and Computers (ADUC)**
+2. Right-click **truenas.local** → **New** → **Organizational Unit**
+3. Create the following OUs:
+   - **IT**
+   - **Sales**
+   - **Accounts**
+
+**Result:** You should see three new OUs under your domain.
