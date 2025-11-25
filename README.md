@@ -18,7 +18,7 @@ TrueNAS with Windows Server 2025 Active Directory.
 ---
 
 ## ⭐ Purpose
-This repo showcase can be deployed in the production environment. You can find full guide on Complete Guide_ TrueNAS Active Directory Integration.
+This repo showcase can be deployed in the production environment. You can find full guide on **"Complete Guide_ TrueNAS Active Directory Integration"**.
 
 ![Status](https://img.shields.io/badge/Deployment-Tested-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-HyperV-blue)
