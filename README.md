@@ -23,6 +23,6 @@ This repo showcases the deployment documentation for learning and portfolio purp
 
 
 
-![Alt text](images/Network Diagram.png)
+![Alt text](https://github.com/reasadmahmood/truenas-windows-ad-integration/blob/main/images/Network%20Diagram.png)
 
 
